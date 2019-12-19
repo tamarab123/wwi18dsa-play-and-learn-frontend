@@ -27,8 +27,8 @@ export class AppComponent {
   private getNavBarData(): INavbarData {
     return {
       // replace the following by your data...
-      logoURL: 'http://play-and-succeed.de/getAsset/logo',
-      appTitle: 'Play And Succeed',
+      logoURL: 'http://wwi18dsa.de/getAsset/logo',
+      appTitle: 'Play And Learn',
       menuEntries: [{
         isActive: true,
         text: 'Home',
